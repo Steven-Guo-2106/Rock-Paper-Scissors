@@ -1,0 +1,13 @@
+button {
+    padding: 8px 16px;
+
+}
+
+#container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#score {
+    text-align: center;
+}
